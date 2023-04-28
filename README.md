@@ -109,7 +109,3 @@ Please provide the requirements you find to know about me to make this profile v
 I would like to thank the microverse team that stands me for this project including my morning team, code reviewers and my partners
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
